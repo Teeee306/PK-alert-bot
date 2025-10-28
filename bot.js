@@ -96,5 +96,5 @@ bot.command('current', async ctx => {
   }
 });
 
-console.log('Bot starting...');
+console.log('Bot starting — LIVE DATA + CORRECT CALENDAR');
 bot.launch();
